@@ -1,0 +1,1 @@
+// No content script needed
